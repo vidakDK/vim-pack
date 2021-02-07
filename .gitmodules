@@ -1,0 +1,15 @@
+[submodule "plugins/start/nerdtree"]
+	path = plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugins/start/nerdtree-git-plugin"]
+	path = plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "colors/start/kuroi"]
+	path = colors/start/kuroi
+	url = https://github.com/aonemd/kuroi.vim
+[submodule "plugins/start/elm-vim"]
+	path = plugins/start/elm-vim
+	url = https://github.com/ElmCast/elm-vim
+[submodule "plugins/start/fugitive"]
+	path = plugins/start/fugitive
+	url = https://github.com/tpope/vim-fugitive
