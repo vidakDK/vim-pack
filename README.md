@@ -17,6 +17,11 @@
 5. Set remote, commit, and push.
 
 
+## Load plugins on new machine
+1. `git submodule init`
+2. `git submodule update`
+
+
 ## Adding plugins
 To add plugins to be always loaded at start, put them in the
 `start` directory, if they are optional to be loaded manually
