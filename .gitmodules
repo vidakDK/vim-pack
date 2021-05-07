@@ -13,3 +13,6 @@
 [submodule "plugins/start/fugitive"]
 	path = plugins/start/fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "plugins/start/vim-python-indent"]
+	path = plugins/start/vim-python-indent
+	url = git@github.com:Vimjas/vim-python-pep8-indent.git
