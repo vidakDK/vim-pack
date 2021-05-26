@@ -13,3 +13,12 @@
 [submodule "plugins/start/fugitive"]
 	path = plugins/start/fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "plugins/start/ale"]
+	path = plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "plugins/start/vim-polyglot"]
+	path = plugins/start/vim-polyglot
+	url = git@github.com:sheerun/vim-polyglot.git
+[submodule "colors/start/solarized"]
+	path = colors/start/solarized
+	url = git@github.com:altercation/vim-colors-solarized.git
